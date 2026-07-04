@@ -8,6 +8,14 @@
 <img width="754" height="571" alt="7" src="https://github.com/user-attachments/assets/d4575fbf-2557-4d85-b7df-398a8d8569a2" />
 <img width="844" height="567" alt="8" src="https://github.com/user-attachments/assets/abcedde6-8cac-485c-baa7-9b589bad4738" />
 
+# 🎁 100% FREE FOR THE COMMUNITY! 🎁
+
+This advanced script is completely **FREE**. We want to give back to the amazing FiveM community. 
+Just claim it on our Tebex store for $0.00 and it will be safely linked directly to your Keymaster account!
+
+👇 **DOWNLOAD IT FOR FREE HERE:** 👇
+[🛒 Claim on Tebex Store]([https://fatbigtebex.tebex.io/](https://fatbigtebex.tebex.io/package/7539501))
+
 Please note: This is one of our most advanced tools at Fatbig Studios. We have spent countless hours refining the UI and the systems to ensure it works flawlessly. If you find any bugs or have feature requests, Please join our Discord and let us know and we will work as fast as we can to resolve the issues.
 
 QBCore | Fully Configurable | Standalone UI
