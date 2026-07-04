@@ -46,7 +46,7 @@ It works out of the box with major resources and exposes all the essential setti
 
 🔗 OFFICIAL LINKS 🔗
 
-🛒 [Tebex Store (Buy Scripts directly)](https://fatbigtebex.tebex.io/)
+🛒 [Tebex Store (Buy Scripts directly)](https://fatbigtebex.tebex.io/) FREE
 
 📚 [Official Documentation (Install Guides & Setup)](https://fatbig-studios.gitbook.io/fatbig-studios-docs)
 
