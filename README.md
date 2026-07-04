@@ -20,10 +20,10 @@ Just claim it on our Tebex store for $0.00 and it will be safely linked directly
 [📺](https://www.youtube.com/watch?v=4AmIWbkdYRg).
 
 **DISCORD INVITE**
-[💬)](https://discord.gg/PJFVzgERJS).
+[💬](https://discord.gg/PJFVzgERJS).
 
 **OFFICIAL DOCUMENTATION**
-[📚)](https://fatbig-studios.gitbook.io/fatbig-studios-docs).
+[📚](https://fatbig-studios.gitbook.io/fatbig-studios-docs).
 
 Please note: This is one of our most advanced tools at Fatbig Studios. We have spent countless hours refining the UI and the systems to ensure it works flawlessly. If you find any bugs or have feature requests, Please join our Discord and let us know and we will work as fast as we can to resolve the issues.
 
