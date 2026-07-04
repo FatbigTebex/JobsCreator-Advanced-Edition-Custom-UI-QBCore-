@@ -13,10 +13,10 @@
 This advanced script is completely **FREE**. We want to give back to the amazing FiveM community. 
 Just claim it on our Tebex store for $0.00 and it will be safely linked directly to your Keymaster account!
 
-👇 **DOWNLOAD IT FOR FREE HERE:** 👇
+**DOWNLOAD IT FOR FREE HERE:**
 [🛒 Claim on Tebex Store](https://fatbigtebex.tebex.io/package/7539501).
 
-👇 **VIDEO SHOWCASE:** 👇
+**VIDEO SHOWCASE:**
 [📺 Video showcase](https://www.youtube.com/watch?v=4AmIWbkdYRg).
 
 Please note: This is one of our most advanced tools at Fatbig Studios. We have spent countless hours refining the UI and the systems to ensure it works flawlessly. If you find any bugs or have feature requests, Please join our Discord and let us know and we will work as fast as we can to resolve the issues.
